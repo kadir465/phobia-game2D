@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI; // UI bileşenlerini kontrol etmek için gerekli
 using TMPro;
 using UnityEngine.SceneManagement;
-public class RenkPuzzle : MonoBehaviour
+public class ColorPuzzle : MonoBehaviour
 {   public static int sira =0;
     public static int renkNumarasi = 0;
     public Vector3 from = Vector3.one; // Başlangıç boyutu (ör. 1,1,1)

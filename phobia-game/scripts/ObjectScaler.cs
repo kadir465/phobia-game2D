@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Resizer : MonoBehaviour
+public class ObjectScaler : MonoBehaviour
 {
     public Vector3 from = Vector3.one; // Başlangıç boyutu (ör. 1,1,1)
     public Vector3 to = new Vector3(2f, 2f, 2f); // Hedef boyutu (ör. 2,2,2)

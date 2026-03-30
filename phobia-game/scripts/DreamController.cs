@@ -4,7 +4,7 @@ using UnityEngine.UI; // UI bileşenlerini kontrol etmek için gerekli
 using TMPro;
 using UnityEngine.SceneManagement;
 
-public class SiraOlaylar : MonoBehaviour
+public class DreamController : MonoBehaviour
 {
     public static int ruyaNumarasi = 0;
     public AudioSource nefesSesi;  // Karakter nefes sesi

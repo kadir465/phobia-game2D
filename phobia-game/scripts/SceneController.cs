@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 using TMPro;
 using static Unity.Burst.Intrinsics.X86;
 
-public class SceneManagement : MonoBehaviour
+public class SceneController : MonoBehaviour
 {
   
     public string X = "Bedroom";

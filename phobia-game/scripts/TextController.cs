@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
 
-public class textcontrol : MonoBehaviour
+public class TextController : MonoBehaviour
 {
     public TMP_Text text;
     public TMP_Text text1;

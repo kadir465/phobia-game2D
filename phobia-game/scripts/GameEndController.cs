@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class FinishGame : MonoBehaviour
+public class GameEndController : MonoBehaviour
 {
     // Start is called before the first frame update
     public void A()
